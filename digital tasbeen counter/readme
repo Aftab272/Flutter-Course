@@ -1,0 +1,48 @@
+# 📿 Digital Tasbeeh Counter Engine
+
+A simple **Dart OOP-based Tasbeeh Counter Engine** developed for **Mobile Application Development (CSC303)**.
+
+## ✨ Features
+
+* Class & Encapsulation
+* Private properties
+* Default & Named Constructors
+* Getters
+* Counter Increment & Reset
+* Completion Status
+* Notification Mixin
+
+## 🧠 OOP Concepts
+
+```text
+Class          → Tasbeeh
+Encapsulation  → _counter, _target, _dhikrName
+Constructors   → Default + Named
+Getters        → counter, target, dhikrName
+Methods        → increment(), reset()
+Boolean Getter → isCompleted
+Mixin          → NotificationMixin
+```
+
+## 📿 Supported Dhikr
+
+| Dhikr         | Target |
+| ------------- | -----: |
+| SubhanAllah   |     33 |
+| Alhamdulillah |     33 |
+| Allahu Akbar  |     34 |
+
+## ▶️ Run
+
+```bash
+dart run tasbeeh.dart
+```
+
+
+> **Note:** Replace `output.png` with the name of your actual screenshot file.
+
+## 👨‍💻 Author
+
+**Muhammad Abdullah**
+
+BS Computer Science — COMSATS University Islamabad
