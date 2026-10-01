@@ -4,7 +4,18 @@ A Flutter Mobile Application designed to display a student's Digital ID Card and
 
 This project focuses on UI design, widget usage, proper layout, alignment, spacing, and basic user interaction.
 
----
+ScreenShot!
+<img width="700" height="638" alt="Screenshot 2026-10-01 191244" src="https://github.com/user-attachments/assets/3b4e32d6-21cb-4ae3-bb48-e819df7e2c47" />
+<img width="700" height="632" alt="Screenshot 2026-10-01 191256" src="https://github.com/user-attachments/assets/d269fdba-5877-4cfe-b0ed-de5f4dedc63a" />
+<img width="700" height="638" alt="Screenshot 2026-10-01 191320" src="https://github.com/user-attachments/assets/e90607f0-49aa-4209-a965-a3201ad2d7e5" />
+<img width="700" height="636" alt="Screenshot 2026-10-01 191331" src="https://github.com/user-attachments/assets/6f102e0c-72c8-4c83-8da4-a187f02567e2" />
+<img width="700" height="637" alt="Screenshot 2026-10-01 191340" src="https://github.com/user-attachments/assets/35b6c5e9-c57a-4063-829f-97e60ded9b5a" />
+<img width="700" height="602" alt="Screenshot 2026-10-01 191349" src="https://github.com/user-attachments/assets/8b3560e6-5ecf-4981-8e2c-886b500a6ddf" />
+
+
+
+
+
 
 ## Objective
 
