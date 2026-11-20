@@ -1,0 +1,13 @@
+{
+  "name": "lootifyscrap-backend",
+  "version": "1.0.0",
+  "description": "LootifyScrap Real Marketplace API Gateway (Etsy, Amazon, eBay, Shopify & Keyword Intelligence)",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
